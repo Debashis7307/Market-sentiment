@@ -33,7 +33,7 @@ How to Run
 pip install pandas matplotlib seaborn
 python analysis.py
 
-📦 6. Folder Structure
+Folder Structure
 project/
 │── analysis.py
 │── README.md
